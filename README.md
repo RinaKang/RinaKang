@@ -13,7 +13,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://programmingmore.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://programmingmore.tistory.com/"> </a>
+    <div align= "center"> 
          <a href=mailto:rinaanni11@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rinaanni11@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
